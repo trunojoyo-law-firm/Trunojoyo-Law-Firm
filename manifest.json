@@ -1,0 +1,13 @@
+{
+  "name": "Trunojoyo Law Firm",
+  "short_name": "Trunojoyo",
+  "description": "Aplikasi manajemen praktik hukum Trunojoyo Law Firm",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F4EC",
+  "theme_color": "#1B2A4A",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
